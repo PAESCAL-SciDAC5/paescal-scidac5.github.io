@@ -1,63 +1,55 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
     <url>
-         <loc>https://example.com/</loc>
-         <lastmod>2022-10-13</lastmod>
-         <changefreq>daily</changefreq>
+         <loc>https://paescal-scidac5.github.io/</loc>
+         <lastmod>2025-09-25</lastmod>
     </url>
     <url>
-         <loc>https://example.com/contact/</loc>
-         <lastmod>2022-10-13</lastmod>
-         <changefreq>daily</changefreq>
+         <loc>https://paescal-scidac5.github.io/contact/</loc>
+         <lastmod>2025-09-25</lastmod>
     </url>
     <url>
-         <loc>https://example.com/research/PDE-ML/</loc>
-         <lastmod>2022-10-13</lastmod>
-         <changefreq>daily</changefreq>
+         <loc>https://paescal-scidac5.github.io/highlights/highlights/</loc>
+         <lastmod>2025-09-25</lastmod>
     </url>
     <url>
-         <loc>https://example.com/research/atm-coupling/</loc>
-         <lastmod>2022-10-13</lastmod>
-         <changefreq>daily</changefreq>
+         <loc>https://paescal-scidac5.github.io/presentations/presentations/</loc>
+         <lastmod>2025-09-25</lastmod>
     </url>
     <url>
-         <loc>https://example.com/research/cloud-mic/</loc>
-         <lastmod>2022-10-13</lastmod>
-         <changefreq>daily</changefreq>
+         <loc>https://paescal-scidac5.github.io/research/PDE-ML/</loc>
+         <lastmod>2025-09-25</lastmod>
     </url>
     <url>
-         <loc>https://example.com/research/clubb-fv/</loc>
-         <lastmod>2022-10-13</lastmod>
-         <changefreq>daily</changefreq>
+         <loc>https://paescal-scidac5.github.io/research/atm-coupling/</loc>
+         <lastmod>2025-09-25</lastmod>
     </url>
     <url>
-         <loc>https://example.com/research/integration-to-E3SM/</loc>
-         <lastmod>2022-10-13</lastmod>
-         <changefreq>daily</changefreq>
+         <loc>https://paescal-scidac5.github.io/research/cloud-mic/</loc>
+         <lastmod>2025-09-25</lastmod>
     </url>
     <url>
-         <loc>https://example.com/research/research/</loc>
-         <lastmod>2022-10-13</lastmod>
-         <changefreq>daily</changefreq>
+         <loc>https://paescal-scidac5.github.io/research/clubb-fv/</loc>
+         <lastmod>2025-09-25</lastmod>
     </url>
     <url>
-         <loc>https://example.com/research/sfc-coupling/</loc>
-         <lastmod>2022-10-13</lastmod>
-         <changefreq>daily</changefreq>
+         <loc>https://paescal-scidac5.github.io/research/integration-to-E3SM/</loc>
+         <lastmod>2025-09-25</lastmod>
     </url>
     <url>
-         <loc>https://example.com/research/visual-analytics/</loc>
-         <lastmod>2022-10-13</lastmod>
-         <changefreq>daily</changefreq>
+         <loc>https://paescal-scidac5.github.io/research/research/</loc>
+         <lastmod>2025-09-25</lastmod>
     </url>
     <url>
-         <loc>https://example.com/team/team/</loc>
-         <lastmod>2022-10-13</lastmod>
-         <changefreq>daily</changefreq>
+         <loc>https://paescal-scidac5.github.io/research/sfc-coupling/</loc>
+         <lastmod>2025-09-25</lastmod>
     </url>
     <url>
-         <loc>https://example.com/highlights/highlights/</loc>
-         <lastmod>2025-06-09</lastmod>
-         <changefreq>daily</changefreq>
+         <loc>https://paescal-scidac5.github.io/research/visual-analytics/</loc>
+         <lastmod>2025-09-25</lastmod>
+    </url>
+    <url>
+         <loc>https://paescal-scidac5.github.io/team/team/</loc>
+         <lastmod>2025-09-25</lastmod>
     </url>
 </urlset>
